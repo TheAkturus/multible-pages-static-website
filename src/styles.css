@@ -21,3 +21,15 @@ img {
 .links {
   text-align: center;
 }
+
+.homepage-link {
+  margin: 10px;
+}
+
+.about-link {
+  margin: 10px;
+}
+
+.contact-link {
+  margin: 10px;
+}
