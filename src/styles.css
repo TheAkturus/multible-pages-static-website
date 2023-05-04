@@ -7,6 +7,10 @@ h1 {
   color: rgb(185, 0, 0);
 }
 
+p {
+  text-align: center;
+}
+
 img {
   max-width: 400px;
   text-align: center;
