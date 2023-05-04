@@ -13,7 +13,8 @@ p {
 
 img {
   max-width: 400px;
-  text-align: center;
+  display: block;
+  border-radius: 5px;
 }
 
 .links {
